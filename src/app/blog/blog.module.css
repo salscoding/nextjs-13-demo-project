@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  margin-bottom: 50px;
+}
+
+.content {
+}
+
+.title {
+  margin-bottom: 10px;
+}
+
+.desc {
+  font-size: 18px;
+  color: #999;
+}
+
+.imageContainer {
+  width: 400px;
+  height: 250px;
+  position: relative;
+}
+
+.img {
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .imageContainer {
+    margin-bottom: 20px;
+  }
+
+  .content {
+    text-align: center;
+  }
+
+  .title {
+    font-size: 24px;
+  }
+
+  .desc {
+    font-size: 16px;
+  }
+}
