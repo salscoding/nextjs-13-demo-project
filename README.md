@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Demo
+
+[![nextjs13-demo-project-by-salscoding](https://github.com/salscoding/nextjs-13-demo-project/blob/design/nextjs13-demo-project-by-salscoding.gif)](https://github.com/salscoding/nextjs-13-demo-project)
 
 ## Getting Started
 
